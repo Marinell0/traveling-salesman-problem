@@ -1,4 +1,4 @@
-#**Travelling salesman heuristic solver**
+# **Travelling salesman heuristic solver**
 
 This project is focused on solving the traveling salesman problem with an heuristic aproach, finding the shortest path to make a cicle on the points given, taking in consideration the radius of each point.
 
