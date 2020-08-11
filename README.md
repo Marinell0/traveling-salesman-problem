@@ -6,6 +6,9 @@ This project is focused on solving the traveling salesman problem with an heuris
 
 Here's the help given by the jar file. It explains each command you can give in the console.
 
+---
+
+```
 Usage: java -jar 'file'.jar [-a antenna-quantity] [-s [seed]] [-r repetitions] [-n num_points] [-h] [-c count] file_name
 
 Options:
@@ -22,3 +25,4 @@ Options:
                                 Can only be used if -r is present.
         -c count                Number of cores to use.
                                 Default is total cores of your system - 2.
+```
